@@ -1,2 +1,6 @@
 # BnRUnitTest
-A template with simple Unit Test example for Automation Studio (B&amp;R) PLC projects
+
+
+A template with simple Unit Test example for Automation Studio (B&R) PLC projects
+
+Sample Project on Github : https://github.com/JamalMuhammad/BnRUnitTest

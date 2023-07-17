@@ -1,0 +1,8 @@
+VAR CONSTANT
+	selectLiftWAIT : UINT:= 0;
+	selectLiftTOP_POSITION : UINT:= 1;
+	selectLiftBOTTOM_POSITION : UINT:= 2;
+	selectLiftGETBOX : UINT:= 3;
+	selectLiftUNLOAD_POSITION : UINT:= 4;
+	selectLiftUNLOAD_BOX : UINT:= 5;	
+END_VAR

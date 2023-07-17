@@ -1,0 +1,15 @@
+# Git ignore syntax: `*` any name, `**/` any depth, `/**` all files, `!` exception, `#` comment
+# More information at https://git-scm.com/docs/gitignore
+
+
+**/Temp
+**/Binaries
+**/Diagnosis
+**/build
+**/_build
+**/*.isopen
+**/*.set
+*.venv
+*.vscode
+/*.venv
+/*.vscode
